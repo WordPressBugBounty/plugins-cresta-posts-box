@@ -3,7 +3,7 @@
  * Plugin Name: Cresta Posts Box
  * Plugin URI: https://crestaproject.com/downloads/cresta-posts-box/
  * Description: <strong>*** <a href="https://crestaproject.com/downloads/cresta-posts-box/" target="_blank">Get Cresta Posts Box PRO</a> ***</strong> Show the next or previous post in a box that appears when the user scrolls to the bottom of a current post.
- * Version: 1.3.5
+ * Version: 1.3.6
  * Author: CrestaProject - Rizzo Andrea
  * Author URI: https://crestaproject.com
  * Domain Path: /languages
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
  
-define( 'CRESTA_POSTS_BOX_PLUGIN_VERSION', '1.3.5' );
+define( 'CRESTA_POSTS_BOX_PLUGIN_VERSION', '1.3.6' );
 add_action('admin_menu', 'cresta_posts_box_menu');
 add_action('admin_init', 'register_posts_box_button_setting' );
 add_action('wp_enqueue_scripts', 'cresta_posts_box_wp_enqueue_scripts');

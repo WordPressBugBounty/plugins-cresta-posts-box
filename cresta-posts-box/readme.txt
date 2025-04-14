@@ -3,8 +3,8 @@ Contributors: CrestaProject
 Donate link: https://crestaproject.com/downloads/cresta-posts-box/
 Tags: previous post, next post, post, posts, previous, next, article, box, animation, animated, page, images, image, fly-out, flyout
 Requires at least: 3.9
-Tested up to: 6.5
-Stable tag: 1.3.5
+Tested up to: 6.8
+Stable tag: 1.3.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ If the problem persists, there may be a javascript error that stops the plugin e
 2. Cresta Posts Box Example in a post
 
 == Changelog ==
+
+= 1.3.6 =
+* Added compatibility with WordPress 6.8
 
 = 1.3.5 =
 * Added compatibility with WordPress 6.5
